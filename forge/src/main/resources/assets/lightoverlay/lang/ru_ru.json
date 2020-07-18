@@ -1,0 +1,18 @@
+{
+  "key.lightoverlay.category": "Наложить освещение",
+  "key.lightoverlay.enable_overlay": "Переключить наложение освещения",
+  "description.lightoverlay.caching": "Кэширование рекомендуется, если охват выше 16 или если вы работаете на картофеле.",
+  "config.lightoverlay.general": "Общие",
+  "config.lightoverlay.reach": "Радиус:",
+  "config.lightoverlay.caching": "Кэширование:",
+  "config.lightoverlay.crossLevel": "Уровень света:",
+  "config.lightoverlay.secondaryLevel": "Уровень вторичного света:",
+  "config.lightoverlay.showNumber": "Показать номер:",
+  "config.lightoverlay.smoothLines": "Гладкие линии:",
+  "config.lightoverlay.underwater": "Освещение под водой:",
+  "config.lightoverlay.lineWidth": "Ширина линии:",
+  "config.lightoverlay.yellowColor": "Желтый цве:",
+  "config.lightoverlay.secondaryColor": "Вторичный цвет:",
+  "config.lightoverlay.redColor": "Красный цвет:",
+  "config.lightoverlay.invalidColor": "Неверный цвет"
+}
